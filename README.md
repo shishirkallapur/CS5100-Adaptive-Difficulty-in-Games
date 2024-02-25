@@ -10,3 +10,7 @@ Run the following files for variations of the system:
 - playerFixelLevel1.py,playerFixedLevel2.py : These files run the player agent on fixed platforms in every game loop.
 - playerRandomLevel.py : This file runs the player agent on random platforms in every game loop.
 
+Install requirements with the command:
+```
+pip install -r requirements.txt
+```
