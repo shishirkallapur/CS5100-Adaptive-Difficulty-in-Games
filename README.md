@@ -12,6 +12,6 @@ Run the following files for variations of the system:
 
 Install requirements with the command:
 ```Install requirements with the command:
-```bash
+```
 pip install -r requirements.txt
 
