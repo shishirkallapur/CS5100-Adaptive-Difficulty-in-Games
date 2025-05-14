@@ -11,7 +11,8 @@ Run the following files for variations of the system:
 - playerRandomLevel.py : This file runs the player agent on random platforms in every game loop.
 
 Install requirements with the command:
-```Install requirements with the command:
 ```
 pip install -r requirements.txt
+```
+
 
